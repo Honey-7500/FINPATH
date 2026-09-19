@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "name": "",
+    "email": "",
+    "age": 28,
+    "occupation": "Salaried Professional",
+    "city": "",
+    "dependents": 0,
+    "monthly_income": 0.0,
+    "monthly_saving_capacity": 0.0,
+    "existing_monthly_emi": 0.0,
+    "existing_investments": 0.0,
+    "emergency_fund": 0.0,
+    "health_insurance_cover": 0.0,
+    "term_insurance_cover": 0.0,
+    "primary_goal": "Buying a Home / Property",
+    "target_horizon": "Medium-Term (3 - 5 Years)",
+    "risk_profile": "Moderate (Balanced Growth)"
+  },
+  "currency": "INR",
+  "chat_messages": [
+    {
+      "role": "assistant",
+      "content": "Hello. I am your FinPath Financial Assistant. You can ask me about loan EMIs, prepayment strategies, SIP wealth compounding, health & term insurance, claim procedures, deposits, or any financial journey."
+    }
+  ],
+  "checklists": {},
+  "journey_twin": {
+    "action": "Select an action",
+    "documents": {}
+  },
+  "activity_log": [
+    {
+      "timestamp": "2026-09-19 09:00:00",
+      "category": "Workspace Initialization",
+      "action": "Initialized FinPath Financial Planning Workspace",
+      "details": "Ready for financial assessments and modeling"
+    }
+  ]
+}
